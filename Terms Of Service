@@ -1,0 +1,246 @@
+# Terms of Service for Grims Guide Discord Bot
+
+**Last Updated:** 02/06/2026
+
+**Bot Owner:** Kristopher W. Lee (The Grim Viking)  
+**Contact:** The Grim Viking or thereapersarmygaming@gmail.com
+
+---
+
+## 1. Acceptance of Terms
+
+By inviting, using, or interacting with the Grims Guide Discord bot ("the Bot"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Bot.
+
+## 2. Description of Service
+
+Grims Guide is a Discord bot that provides the following services:
+- Server moderation tools (kick, ban, timeout, warnings, purge)
+- World of Warcraft auction house lookups
+- Donation management system
+- Giveaway creation and management
+- Interactive polling system
+- Message translation services
+- Server information and utility commands
+
+All features require server moderator permissions (Manage Server).
+
+## 3. Eligibility
+
+### 3.1 Age Requirements
+You must be at least 13 years old (or the minimum age required by Discord's Terms of Service in your jurisdiction) to use this Bot.
+
+### 3.2 Discord Account
+You must have a valid Discord account in good standing to use the Bot.
+
+### 3.3 Server Permissions
+To use the Bot's features, you must have the appropriate permissions in your Discord server (typically "Manage Server" permission).
+
+## 4. User Responsibilities
+
+### 4.1 Acceptable Use
+You agree to use the Bot only for lawful purposes and in accordance with these Terms. You shall not:
+
+- Use the Bot to harass, abuse, threaten, or intimidate other users
+- Use the Bot to spam, flood, or disrupt Discord servers
+- Attempt to exploit, hack, or reverse engineer the Bot
+- Use the Bot to violate Discord's Terms of Service or Community Guidelines
+- Use the Bot to distribute malicious content, viruses, or malware
+- Impersonate the Bot owner or other users
+- Use the Bot for any illegal activities
+
+### 4.2 Content Responsibility
+You are solely responsible for:
+- All content created using the Bot (polls, giveaways, announcements, etc.)
+- Compliance with applicable laws regarding content you create
+- Any consequences resulting from your use of the Bot
+
+### 4.3 Moderation Actions
+When using moderation features (kick, ban, timeout), you are responsible for:
+- Ensuring actions comply with your server's rules
+- Following Discord's Terms of Service
+- Not abusing moderation powers
+
+## 5. Bot Owner Rights
+
+### 5.1 Service Availability
+The Bot owner reserves the right to:
+- Modify, suspend, or discontinue the Bot at any time
+- Enable or disable specific features for individual servers
+- Refuse service to any user or server
+- Update or change these Terms at any time
+
+### 5.2 Feature Access
+The Bot owner may:
+- Grant or revoke access to specific Bot features on a per-server basis
+- Implement premium features that require payment or special access
+- Change feature availability without prior notice
+
+### 5.3 Content Moderation
+The Bot owner reserves the right to:
+- Review reported content created through the Bot
+- Remove servers from using the Bot if Terms are violated
+- Report illegal activities to appropriate authorities
+
+## 6. Data Collection and Privacy
+
+### 6.1 Data Collection
+The Bot collects and stores:
+- Server IDs and server settings
+- User IDs for command usage and moderation actions
+- Message IDs for specific features (polls, giveaways)
+- Configuration data (donation links, welcome messages, etc.)
+
+For complete details, see our **Privacy Policy**.
+
+### 6.2 Data Usage
+Collected data is used solely for:
+- Providing Bot functionality
+- Improving Bot features
+- Maintaining service stability
+
+### 6.3 Data Retention
+Data is retained while the Bot is actively used in your server. Upon removing the Bot, you may request data deletion by contacting the Bot owner.
+
+## 7. Third-Party Services
+
+### 7.1 External APIs
+The Bot may use third-party services including:
+- Google Gemini API (for translation)
+- Blizzard Battle.net API (for World of Warcraft data)
+- Discord API
+
+Your use of these features is subject to the respective service's terms.
+
+### 7.2 External Links
+The Bot may provide links to external websites (donation platforms, etc.). The Bot owner is not responsible for third-party content or services.
+
+## 8. Disclaimer of Warranties
+
+### 8.1 "As-Is" Service
+THE BOT IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- Warranties of merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Uninterrupted or error-free operation
+
+### 8.2 No Guarantee
+The Bot owner does not guarantee:
+- 100% uptime or availability
+- Error-free operation
+- Accuracy of information provided (WoW auction data, translations, etc.)
+- Data preservation or backup
+
+## 9. Limitation of Liability
+
+### 9.1 Damages
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE BOT OWNER SHALL NOT BE LIABLE FOR:
+- Any direct, indirect, incidental, special, or consequential damages
+- Loss of profits, data, or use
+- Damages resulting from Bot errors, downtime, or data loss
+- Actions taken by users using the Bot's moderation features
+- Third-party content or services accessed through the Bot
+
+### 9.2 Maximum Liability
+In no event shall the Bot owner's total liability exceed $0 (zero dollars).
+
+## 10. Indemnification
+
+You agree to indemnify, defend, and hold harmless the Bot owner from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from:
+- Your use of the Bot
+- Your violation of these Terms
+- Your violation of any third-party rights
+- Content you create or distribute using the Bot
+
+## 11. Modifications to Service
+
+### 11.1 Updates
+The Bot owner may:
+- Add, modify, or remove features at any time
+- Change command syntax or functionality
+- Implement new restrictions or requirements
+
+### 11.2 Notice
+Major changes will be announced through:
+- Bot status updates
+- Support server announcements (https://discord.gg/Qv6k6mS3bR)
+- Updated documentation
+
+## 12. Termination
+
+### 12.1 Voluntary Termination
+You may stop using the Bot at any time by:
+- Removing the Bot from your server
+- Requesting account data deletion
+
+### 12.2 Involuntary Termination
+The Bot owner may terminate or suspend your access if:
+- You violate these Terms
+- You abuse Bot features
+- Your usage threatens Bot stability or security
+- You violate Discord's Terms of Service
+
+### 12.3 Effect of Termination
+Upon termination:
+- Your access to the Bot will cease
+- Your server data may be deleted
+- Outstanding obligations survive termination
+
+## 13. Intellectual Property
+
+### 13.1 Bot Ownership
+The Bot, including all code, features, and documentation, is the intellectual property of Kristopher W. Lee. All rights reserved.
+
+### 13.2 User Content
+You retain ownership of content you create using the Bot (poll questions, giveaway descriptions, etc.). However, by using the Bot, you grant the Bot owner a license to store and process this content as necessary to provide the service.
+
+### 13.3 Restrictions
+You may not:
+- Copy, modify, or redistribute the Bot's code
+- Create derivative works based on the Bot
+- Remove or alter any copyright notices
+
+## 14. Governing Law
+
+These Terms shall be governed by and construed in accordance with the laws of the United States of America, without regard to conflict of law provisions.
+
+## 15. Dispute Resolution
+
+### 15.1 Informal Resolution
+Before pursuing formal action, users agree to contact the Bot owner to attempt informal resolution.
+
+### 15.2 Arbitration
+Any disputes arising from these Terms or use of the Bot shall be resolved through binding arbitration in the United States of America.
+
+## 16. Miscellaneous
+
+### 16.1 Entire Agreement
+These Terms constitute the entire agreement between you and the Bot owner regarding the Bot.
+
+### 16.2 Severability
+If any provision of these Terms is found unenforceable, the remaining provisions shall remain in full effect.
+
+### 16.3 Waiver
+Failure to enforce any provision does not constitute a waiver of that provision.
+
+### 16.4 Assignment
+You may not assign these Terms. The Bot owner may assign these Terms without restriction.
+
+## 17. Contact Information
+
+For questions, concerns, or Terms violations, contact:
+
+**Bot Owner:** Kristopher W. Lee
+**Discord:** The Grim Viking  
+**Email:** thereapersarmygaming@gmail.com  
+**Support Server:** https://discord.gg/Qv6k6mS3bR
+
+## 18. Updates to Terms
+
+These Terms may be updated at any time. Continued use of the Bot after changes constitutes acceptance of new Terms. Users are encouraged to review Terms periodically.
+
+**Version:** 1.0  
+**Effective Date:** 02/06/2026
+
+---
+
+By using Grims Guide, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
