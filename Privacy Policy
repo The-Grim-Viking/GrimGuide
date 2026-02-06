@@ -1,0 +1,377 @@
+# Privacy Policy for Grims Guide Discord Bot
+
+**Last Updated:** 02/06/2026
+
+**Bot Owner:** Kristopher W. Lee  
+**Contact:** The Grim Viking or thereapersarmygaming@gmail.com
+
+---
+
+## 1. Introduction
+
+This Privacy Policy explains how Grims Guide ("the Bot," "we," "us," or "our") collects, uses, stores, and protects your information when you use our Discord bot.
+
+By using the Bot, you consent to the data practices described in this policy. If you do not agree with this policy, please do not use the Bot.
+
+## 2. Information We Collect
+
+### 2.1 Automatically Collected Data
+
+When you use the Bot, we automatically collect:
+
+**Server Information:**
+- Server ID (unique identifier for your Discord server)
+- Server name (for logging and support purposes)
+- Channel IDs (where Bot commands are used)
+
+**User Information:**
+- User ID (unique Discord identifier)
+- Username (for display in commands and logs)
+- User roles and permissions (to verify command access)
+
+**Command Usage Data:**
+- Commands executed
+- Timestamp of command usage
+- Command parameters (e.g., poll questions, giveaway prizes)
+
+### 2.2 User-Provided Data
+
+Information you explicitly provide through Bot commands:
+
+**Configuration Data:**
+- Donation links (PayPal, Ko-fi, etc.)
+- Custom donation messages
+- Welcome messages
+- Auto-role settings
+- Translation preferences
+- Channel configurations
+
+**Content Data:**
+- Poll questions and options
+- Giveaway descriptions and prizes
+- Auction listings (for WoW features)
+- Moderation notes and warnings
+- Suggestion submissions
+
+**Message Data (Limited):**
+- Message IDs (for polls, giveaways, and specific features)
+- Message content (only for translation feature, not permanently stored)
+
+### 2.3 Data We Do NOT Collect
+
+We do not collect:
+- Message content (except temporarily for translation)
+- Private/Direct Messages
+- Voice data
+- Payment information
+- Personal identifiable information (email, phone, address)
+- IP addresses
+- Device information
+
+## 3. How We Use Your Information
+
+### 3.1 Service Provision
+
+We use collected data to:
+- Provide Bot functionality (moderation, polls, giveaways, etc.)
+- Store server configuration and preferences
+- Track giveaway entries and poll votes
+- Maintain moderation logs and warnings
+- Execute translation services
+
+### 3.2 Service Improvement
+
+We may use data to:
+- Analyze feature usage and popularity
+- Identify and fix bugs
+- Improve Bot performance
+- Develop new features
+
+### 3.3 Support and Communication
+
+We use data to:
+- Respond to support requests
+- Investigate reported issues
+- Communicate Bot updates
+
+### 3.4 Legal Compliance
+
+We may use or disclose data to:
+- Comply with legal obligations
+- Protect against illegal activities
+- Enforce our Terms of Service
+- Protect the rights and safety of users
+
+## 4. Data Storage and Security
+
+### 4.1 Storage Location
+
+Data is stored in:
+- Local JSON files on the Bot's server
+- Location: United States Of America
+
+### 4.2 Security Measures
+
+We implement reasonable security measures:
+- Restricted file access (Bot owner only)
+- Regular data backups
+- Encrypted API communications (HTTPS)
+- Secure storage practices
+
+### 4.3 Data Retention
+
+**Active Data:**
+- Configuration data: Retained while Bot is in your server
+- Moderation logs: Retained indefinitely or until deleted by admin
+- Giveaway/Poll data: Retained until completion + 30 days
+- Warning data: Retained until manually cleared
+
+**Inactive Data:**
+- If Bot is removed from your server, data is retained for 30 days
+- After 30 days, server data may be automatically purged
+- You may request immediate deletion (see Section 8)
+
+## 5. Data Sharing
+
+### 5.1 Third-Party Services
+
+The Bot uses these third-party services which may process your data:
+
+**Discord API:**
+- Purpose: Bot functionality
+- Data shared: User IDs, Server IDs, Messages (as needed)
+- Privacy Policy: https://discord.com/privacy
+
+**Google Gemini AI:**
+- Purpose: Message translation
+- Data shared: Message text (temporarily, not stored by Google)
+- Privacy Policy: https://policies.google.com/privacy
+
+### 5.2 No Selling of Data
+
+We do NOT:
+- Sell your data to third parties
+- Share your data for marketing purposes
+- Provide your data to advertisers
+
+### 5.3 Legal Disclosure
+
+We may disclose data if required by:
+- Court orders or subpoenas
+- Law enforcement requests
+- Legal compliance requirements
+
+## 6. User Rights
+
+### 6.1 Access Rights
+
+You have the right to:
+- Request a copy of your data
+- Know what data we store about you
+- Understand how your data is used
+
+### 6.2 Correction Rights
+
+You can:
+- Update your server's configuration data
+- Modify poll/giveaway content before completion
+- Correct inaccurate information
+
+### 6.3 Deletion Rights
+
+You can request:
+- Deletion of specific data entries
+- Complete server data removal
+- Removal from Bot's database
+
+**How to Exercise Rights:**
+Contact the Bot owner at Discord or Email.
+
+## 7. Children's Privacy
+
+### 7.1 Age Requirements
+
+The Bot is not intended for users under 13 years old (or minimum age required by Discord).
+
+### 7.2 Parental Consent
+
+If you are under 18, ensure you have parental permission before using the Bot.
+
+### 7.3 Data from Minors
+
+We do not knowingly collect data from children under 13. If we discover such data, we will delete it immediately.
+
+## 8. Data Deletion Requests
+
+### 8.1 How to Request Deletion
+
+To delete your data:
+1. Contact the Bot owner via Discord or Email
+2. Provide your Server ID or User ID
+3. Specify what data you want deleted
+
+### 8.2 Deletion Timeline
+
+- Request acknowledged within: 48 hours
+- Data deleted within: 7 business days
+- Confirmation sent upon completion
+
+### 8.3 Automatic Deletion
+
+Data is automatically deleted when:
+- Bot is removed from your server (30-day grace period)
+- Inactive servers (no commands for 6 months)
+- At your request
+
+## 9. Cookies and Tracking
+
+### 9.1 No Cookies
+
+The Bot does not use cookies or browser-based tracking.
+
+### 9.2 Discord Tracking
+
+Discord may track Bot usage through their platform. Refer to Discord's Privacy Policy for details.
+
+## 10. International Data Transfers
+
+### 10.1 Data Location
+
+Your data may be stored and processed in the United States of America.
+
+### 10.2 International Users
+
+By using the Bot, you consent to data transfer to our storage location, regardless of your country of residence.
+
+## 11. California Privacy Rights (CCPA)
+
+California residents have additional rights:
+
+### 11.1 Right to Know
+
+Request information about data collection and use.
+
+### 11.2 Right to Delete
+
+Request deletion of personal information.
+
+### 11.3 Right to Opt-Out
+
+We don't sell data, so opt-out is not applicable.
+
+### 11.4 Non-Discrimination
+
+We will not discriminate against users who exercise their rights.
+
+**Contact for CCPA Requests:** thereapersarmygaming@gmail.com
+
+## 12. European Privacy Rights (GDPR)
+
+If you're in the EU/EEA, you have rights under GDPR:
+
+### 12.1 Legal Basis
+
+We process data based on:
+- Consent (you use the Bot voluntarily)
+- Legitimate interests (providing service)
+- Contract performance (Terms of Service)
+
+### 12.2 GDPR Rights
+
+- Right of access
+- Right to rectification
+- Right to erasure ("right to be forgotten")
+- Right to restrict processing
+- Right to data portability
+- Right to object
+- Rights related to automated decision-making
+
+### 12.3 Data Protection Officer
+
+For GDPR inquiries: Kristopher W. Lee
+
+### 12.4 Supervisory Authority
+
+You have the right to lodge a complaint with your local data protection authority.
+
+## 13. Changes to This Policy
+
+### 13.1 Updates
+
+We may update this Privacy Policy periodically. Changes take effect immediately upon posting.
+
+### 13.2 Notification
+
+Major changes will be announced via:
+- Bot status updates
+- Support server announcements
+- Updated documentation
+
+### 13.3 Continued Use
+
+Continued use after changes constitutes acceptance of the updated policy.
+
+## 14. Contact Information
+
+For privacy questions, concerns, or requests:
+
+**Bot Owner:** Kristopher W. Lee  
+**Discord:** The Grim Viking  
+**Email:** thereapersarmygaming@gmail.com  
+**Support Server:** https://discord.gg/Qv6k6mS3bR
+
+**Response Time:** Within 48 hours for privacy requests
+
+## 15. Data Breach Notification
+
+### 15.1 Our Commitment
+
+In the event of a data breach affecting your information, we will:
+- Notify affected users within 72 hours
+- Describe the nature of the breach
+- Explain steps being taken
+- Provide guidance on protective measures
+
+### 15.2 Breach Response
+
+We will:
+- Investigate the breach immediately
+- Implement additional security measures
+- Report to appropriate authorities if required
+
+## 16. Transparency Report
+
+Upon request, we can provide:
+- Number of data deletion requests processed
+- Types of data collected
+- Data retention statistics
+- Third-party service usage
+
+## 17. Your Consent
+
+By using Grims Guide, you consent to:
+- Data collection as described
+- Data processing for service provision
+- Use of third-party services (Discord, Google, Blizzard)
+- Storage and retention practices outlined
+
+You can withdraw consent by:
+- Removing the Bot from your server
+- Requesting data deletion
+
+## 18. Additional Information
+
+### 18.1 Open Source
+
+[If applicable] Some Bot code may be open source. See our repository for code transparency.
+
+### 18.2 Audit Rights
+
+[If applicable] Enterprise users may request data audits subject to agreement.
+
+---
+
+**Version:** 1.0  
+**Effective Date:** 02/06/2026
+
+By using Grims Guide, you acknowledge that you have read, understood, and agree to this Privacy Policy.
